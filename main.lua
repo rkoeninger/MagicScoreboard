@@ -59,8 +59,8 @@ local p1LifeDownButton = widget.newButton
 	label = "Down",
 	fontSize = 22,
 	font = native.systemFontBold,
-	defaultFile = "buttonBlue_100.png",
-	overFile = "buttonBlueOver_100.png",
+	defaultFile = "images/buttonBlue_100.png",
+	overFile = "images/buttonBlueOver_100.png",
 	onRelease = p1LifeDown
 }
 p1LifeDownButton.x = display.contentCenterX - 128
@@ -71,8 +71,8 @@ local p1LifeUpButton = widget.newButton
 	label = "Up",
 	fontSize = 22,
 	font = native.systemFontBold,
-	defaultFile = "buttonBlue_100.png",
-	overFile = "buttonBlueOver_100.png",
+	defaultFile = "images/buttonBlue_100.png",
+	overFile = "images/buttonBlueOver_100.png",
 	onRelease = p1LifeUp
 }
 p1LifeUpButton.x = display.contentCenterX - 128
@@ -84,8 +84,8 @@ local p2LifeDownButton = widget.newButton
 	label = "Down",
 	fontSize = 22,
 	font = native.systemFontBold,
-	defaultFile = "buttonBlue_100.png",
-	overFile = "buttonBlueOver_100.png",
+	defaultFile = "images/buttonBlue_100.png",
+	overFile = "images/buttonBlueOver_100.png",
 	onRelease = p2LifeDown
 }
 p2LifeDownButton.x = display.contentCenterX + 128
@@ -96,8 +96,8 @@ local p2LifeUpButton = widget.newButton
 	label = "Up",
 	fontSize = 22,
 	font = native.systemFontBold,
-	defaultFile = "buttonBlue_100.png",
-	overFile = "buttonBlueOver_100.png",
+	defaultFile = "images/buttonBlue_100.png",
+	overFile = "images/buttonBlueOver_100.png",
 	onRelease = p2LifeUp
 }
 p2LifeUpButton.x = display.contentCenterX + 128
