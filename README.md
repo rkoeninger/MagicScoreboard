@@ -6,4 +6,4 @@ Built using Corona SDK.
 
 Very alpha.
 
-[Download page](//rkoeninger.github.io/magic-scoreboard).
+[Download from the releases page](//github.com/rkoeninger/magic-scoreboard/releases).
