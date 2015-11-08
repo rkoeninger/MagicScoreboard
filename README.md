@@ -1,4 +1,4 @@
-[![Latest Release](https://img.shields.io/badge/alpha%20release-0.0.2-red.svg)](//github.com/rkoeninger/magic-scoreboard/releases)
+[![Latest Release](https://img.shields.io/badge/alpha%20release-0.0.2-c9510c.svg)](//github.com/rkoeninger/magic-scoreboard/releases)
 
 # Magic Scoreboard
 
